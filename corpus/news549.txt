@@ -1,0 +1,4 @@
+Deep Graph Library 0.4 版本发布
+
+Deep Graph Library（DGL）团队今日发布了 0.4 版本更新，本次更新包括了以下内容：对异构图的支持；提供用于高效计算大型知识图的嵌入的子包；包含了许多性能改进，贡献的模型和数据集以及错误修正。除此之外，还包含了许多新的模型，如 GCMC，RGCN，HAN 以及 Metapath2vec。新的 DGL-KE 软件包还支持对 TransE，ComplEx，DistMult 的有效培训。
+

@@ -1,0 +1,4 @@
+针对深度学习研究人员的 TensorFlow 2.0 + Keras 概述
+
+Keras 作者，谷歌研究员 Francois Chollet 今日发布了一个针对深度学习研究人员的广泛的 TensorFlow 2.0 + Keras 概述。该文章可作为 TensorFlow 2.0 的简介，速成课程以及快速 API 参考。点击下方链接阅读原文。
+

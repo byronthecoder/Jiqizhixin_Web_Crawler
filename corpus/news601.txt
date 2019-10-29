@@ -1,0 +1,4 @@
+Fastai.medical.imaging 库使用教程
+
+Fast.ai 创始人 Jeremy Howard 分享了一个关于如何使用 fastai.medical.imaging 库的教程，该教程涵盖了使用 Pandas 扩展方法分析 DICOM 元数据；结合元数据，像素统计信息以及标签； 处理数据类型等内容。点击链接查看详细内容。
+

@@ -1,0 +1,4 @@
+Hugging Face「Distil」系列更新
+
+Hugging Face 今日公布了三项更新：Write With Transformer 的 DistilGPT-2 支持；用于 iOS 问题解答的 DistilBERT；适用于 iOS 的 DistilGPT-2。
+

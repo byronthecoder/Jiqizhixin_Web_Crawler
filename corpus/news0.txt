@@ -1,0 +1,4 @@
+ICCV 2019开幕，旷视科技获COCO挑战赛三项第一
+
+今日，两年一度的国际计算机视觉顶会 ICCV 2019在韩国首尔开幕。 在正在进行COCO + Mapillary Workshop上，今年COCO挑战赛的获胜团队陆续公布。据机器之心了解，国内AI企业旷视科技拿下 COCO 挑战赛四项任务中物体检测（Detection）、人体关键点（Keypoint）和全景分割（Panoptic）三项任务第一。此外，旷视还以最具创新性的算法，荣获今年Workshop新设立的 Best Paper Award（最佳论文奖）。 除此挑战赛，旷视还拿下 Wider Challenge 2019 行人检测冠军和 VOS 2019 视频对象分割冠军。
+

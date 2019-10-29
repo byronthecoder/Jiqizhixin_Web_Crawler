@@ -1,0 +1,4 @@
+清华大学提出新型并发控制算法，大幅提升事务内存系统性能，获顶会最佳论文提名
+
+10月12日~16日，第52届国际微架构会议(International Symposium on Microarchitecture，简称MICRO)在美国俄亥俄州哥伦布市召开。清华大学魏少军教授、刘雷波教授团队在会上做了题为《应用于事务内存的乐观并发控制算法的FPGA加速》（FPGA-Accelerated Optimistic Concurrency Control for Transactional Memory）的报告，介绍了团队设计的新型并发控制算法以及使用可重构架构加速算法执行的方法，在评估事务内存系统性能的STAMP测试集上，该算法相比Intel处理器内置的TSX（Transactional Synchronization Extension, 事务同步扩展）指令集获得了8倍以上的性能提升。该论文是亚洲高校及科研机构在MICRO 52年历史上第二次获得最佳论文提名，论文的第一作者是李兆石博士，通讯作者是刘雷波教授。
+

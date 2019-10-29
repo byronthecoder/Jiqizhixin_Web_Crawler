@@ -1,0 +1,4 @@
+iRobot在中国推出全新Braava jet® m6擦地机器人和ImprintTM互联技术
+
+10 月 15 日，家用机器人公司 iRobot 在中国推出全新 Braava jet® m6 擦地机器人和 ImprintTM 互联技术。Robot® Roomba i 系列及 9 系列扫地机器人和 Braava jet® m6 擦地机器人可以相互通讯，仿照人工先扫、后擦的顺序自动进行协同清洁。Braava jet® m6 擦地机器人搭载 vSLAM®的 iAdapt® 3.0 智能导航技术，以及 ImprintTM 智能规划技术，因此可以学习、绘制和自动适应家居环境，智能优化每个房间以及全屋的清洁工作。Braava jet® m6 擦地机器人同样适合多房间和大户型的清洁。和 iRobot Roomba 9 系和 Roomba i7+ 扫地机器人一样，当机器人在清洁过程中发现电量不足时，会自动返回充电座进行充电，并在充电完成后回到先前停止工作的地方继续清洁，直到完成所有的清洁任务。
+

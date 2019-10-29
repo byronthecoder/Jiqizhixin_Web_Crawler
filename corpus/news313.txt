@@ -1,0 +1,4 @@
+微软推出基于人工智能的「数字营销中心」项目
+
+微软推出了一个名为「数字营销中心」（Digital Marketing Center）的新Garage项目。该工具由人工智能提供支持，旨在实现中小型企业（SMB）的数字营销自动化。它的主要重点是使这些业务的整个流程显著提高效率。本质上，它通过快速的广告活动设置以及自动的内容和预算优化提供了整合的社交媒体管理体验。它可以在各种平台上使用，包括Microsoft Advertising、Google Ads、Facebook、Twitter和Instagram。
+

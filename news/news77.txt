@@ -1,0 +1,4 @@
+Netflix 开源多语言编程笔记本环境 Polynote
+
+流媒体视频服务提供商 Netflix 今日宣布开源其多语言编程笔记本环境 Polynote。该环境与 Apache Spark 集成，并为 Scala，Python 和 SQL 提供强大的支持。该公司在博客中表示，Polynote 旨在让数据科学家和 AI 研究人员将 Netflix 的基于 JVM 的机器学习框架与 Python 机器学习和可视化库相集成。该环境即日起可以从 Polynote.org 及 GitHub 免费获得。（Venture Beat）
+

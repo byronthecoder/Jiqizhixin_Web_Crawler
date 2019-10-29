@@ -1,0 +1,4 @@
+利用人工智能对抗罕见疾病的初创公司 Healx 筹集 5600 万美元资金
+
+Healx 是一家利用人工智能发现罕见疾病的新药治疗方法的公司。该公司近日在由 Atomico 牵头的 B 轮融资中筹集了 5600 万美元资金，该轮融资参与方包括了 Intel Capital，Balderton Capital，Global Brain，Btov Partners，Amadeus 资本合伙人以及来自剑桥创新资本的 Jonathan Milner。Healx 于 2014 年在剑桥成立，并且拥有一个名为 Healnet 的人工智能平台。该平台将一系列机器学习技术应用于公开和专有数据源，涵盖文献，临床试验，专利，药物靶标，化学结构，症状等。此过程部分内容涉及使用自然语言处理从所有已发布的有关特定疾病的资源中提取见识和知识。（Venture Beat）
+

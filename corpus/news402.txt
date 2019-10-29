@@ -1,0 +1,4 @@
+英伟达的 GeForce Now 开始在 Android 上推出
+
+英伟达在 8 月表示，它将把其 GeForce Now 游戏流媒体服务引入 Android 手机，现在，GeForce Now 将开始在韩国的 Android 用户中普及。GeForce Now Android 应用程序的运行方式与 PC，Mac 和 Nvidia Shield 上的体验类似。如果你是 Beta 版的一部分，则登录到 GeForce Now 帐户，然后从自己拥有的游戏的应用程序图标网格中选择要玩的游戏，然后开始玩，你可能需要一个控制器，因为有些游戏可能不支持触摸屏控件。（The Verge）
+

@@ -1,0 +1,4 @@
+Uber技术博客更新，介绍机器学习平台Michelangelo新发展
+
+Uber 的机器学习平台 Michelangelo 支持在公司内部范围内训练和服务数千种生产模型。该系统旨在涵盖端到端 ML 工作流，目前支持经典的机器学习，时间序列预测和深度学习模型，这些模型涵盖了无数用例，从生成市场预测，响应客户支持票证到计算准确预计到达时间（ETA），并使用驱动程序上的自然语言处理（NLP）模型为 Uber 的一键聊天功能提供支持。大多数 Michelangelo 模型均基于 Apache Spark MLlib（Apache Spark 的可扩展机器学习库）。为了处理高 QPS 在线服务，Michelangelo 最初仅支持内部自定义模型序列化和表示形式的 Spark MLlib 模型的子集，这阻止了客户灵活地试验任意复杂的模型管道并抑制 Michelangelo 的扩展速度。为了解决这些问题，Uber 特别是在模型表示，持久性和在线服务方面改进了 Michelangelo 对 Spark MLlib 的使用。
+

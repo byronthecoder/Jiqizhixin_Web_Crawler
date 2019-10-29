@@ -1,0 +1,4 @@
+微软 Surface Pro X 配备自定义 SQ1 芯片以及 9 TOPS AI 引擎
+
+微软近日在 Surface 活动上公布了新一款的以 ARM 为基础的 Surface Pro 平板电脑。该款产品仅有 5.3 毫米的厚度，是迄今为止微软定制度最高的 Surface Pro 二合一产品，不仅配备了全新的 SQ1 处理器，还同时配备了具有 9 TOPS 计算能力的集成 AI 引擎以及具有 2 Teraflop 输出的 GPU。该产品预计将于 11 月 5 日开售，售价为 999 美元起。（WCCFTECH）
+

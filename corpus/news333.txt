@@ -1,0 +1,4 @@
+下一代谷歌几乎可以实时工作，可以提供语音转录
+
+更快，近乎实时的 Google Assistant 在今天在纽约举行的硬件活动中首次亮相，旗舰智能手机 Pixel 4 也亮相了。下一代 Google Assistant 可以用于打开应用程序并从语音记录中提供自动语音转录，以及使用多转对话来响应多个命令或查询。Google Assistant 也正在获得新的注重隐私的语音命令。下一代 Google Assistant 与 Pixel 4 智能手机，新型 Pixel Buds，Pixelbook Go 笔记本电脑，新型 Nest Mini 智能扬声器和 Nest Wifi 一同亮相。（VentureBeat）
+

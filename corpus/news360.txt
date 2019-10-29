@@ -1,0 +1,4 @@
+Redesign Science获数百万美元融资，押注AI赋能小分子药物研发
+
+10月16日消息，AI平台技术药物研发公司Redesign Science宣布，其已完成数百万美元融资。据悉，本轮融资由Notation Capital领投，晨兴资本、Third Kind Venture Capital、Refactor Capital跟投，青桐资本助力本轮融资顺利完成。Redesign Science成立于2017年，总部设在美国纽约，专注于以创新技术加速早期小分子药物研发进程。通过云端并行分子动力学模拟技术，Redesign Science重点研究难以成药的蛋白质靶点——而在传统计算化学中，这些靶点蛋白质因缺乏足够数据支撑，往往难以获得多样性的小分子药物。
+

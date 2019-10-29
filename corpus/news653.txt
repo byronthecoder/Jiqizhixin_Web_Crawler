@@ -1,0 +1,4 @@
+Umbo Computer Vision 为人工智能视频安全技术融资 800 万美元
+
+人工智能初创公司 Umbo Computer Vision 目前已有能力为企业提供自主视频安全系统，该公司日前获得「A 后」轮 800 万美元的融资。该轮融资由 Translink Capital 和 Susquehanna International Group 共同领导，新光资本和新光证券以及其他现有投资者也参与其中。总部位于中国台湾和旧金山的 Umbo 成立于 2014 年，致力于开发软件，硬件和 AI 智能设备，可以检测和识别与安全相关的人类行为，例如入侵，尾随（当未经授权的人员跟随某人进入私人场所时）等等。（venturebeat）
+

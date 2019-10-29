@@ -1,0 +1,4 @@
+Xoran Technologies获得800万美元融资，推动CT成像系统研究
+
+动脉网获悉，Xoran Technologies从与美国国立卫生研究院（National Institutes of Health）匹配的拨款计划中获得总计800万美元的资金，用于其xCAT IQ移动CT成像系统研究。本次融资中，美国国家癌症研究所（The National Cancer Institute）计划在未来三年内通过小企业创新研究赠款的形式为Xoran提供400万美元的研发资金。同时，Decathlon Capital Partners将提供400万美元的额外配套投资。Decathlon同意用Xoran未来收入偿还投资，而不出售股权。据悉，Xoran计划使用这笔赠款资金开发一套成像系统，该系统利用腹腔镜设备，对手术器械进行远程控制，并由机器人操作，实现手术导航和术中成像。这一成像系统的研发将减少手术时间，提高手术效率和安全性。
+

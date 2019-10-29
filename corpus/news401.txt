@@ -1,0 +1,4 @@
+Facebook AI 在保留意义的同时简化了句子
+
+简化文本的语法和结构是我们大多数人在学校中学到的一项有用技能，但是由于缺乏语言知识，人工智能通常很难做到这一点。也就是说，Facebook AI Research 和 Inria 的科学家正在朝着称为 ACCESS（AudienCe-CEntric Sentence Simplification）的简化模型迈进，他们声称该模型可以自定义文本长度，释义量，词法复杂性，句法复杂性以及其他参数，同时保留连贯性。（VentureBeat）
+
